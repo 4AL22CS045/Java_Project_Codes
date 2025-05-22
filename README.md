@@ -117,6 +117,7 @@ OUTPUTS FOR JAVA_PROJECT_CODE CLICK BELOW LINKS TO GET THE OUTPUT
 output for 8b_CoffeeUpdate
 
 8b.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8b_CoffeeUpdate/8b1output%20(2).png
+
 8b.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8b_CoffeeUpdate/8b2output.png
 
 #output for 8c_Employee
@@ -130,12 +131,15 @@ output for 8b_CoffeeUpdate
 #output for 8d_Employee
 
 8d.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8d_Employee/8d1output.png
+
 8d.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8d_Employee/8d2output.png
+
 8d.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8d_Employee/8d3output.png
 
 #output for 9a_CoffeeDelete
 
 9a.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/9a_CoffeeDelete/9a1output.png
+
 9a.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/9a_CoffeeDelete/9a2output.png
 
 #output for 9b_CoffeeStartingD
@@ -149,6 +153,7 @@ output for 8b_CoffeeUpdate
 #output for 9d_CoffeeStartingS
 
 9d.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/9d_EmployeeStartingS/9d1output.png
+
 9d.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/9d_EmployeeStartingS/9d2output.png
 
 
