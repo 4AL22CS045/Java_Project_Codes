@@ -7,17 +7,25 @@ OUTPUTS FOR JAVA_PROJECT_CODE CLICK BELOW LINKS TO GET THE OUTPUT
 #Output for 1b_Array
 
 1b.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1b_Array/1b.1.png
+
 1b.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1b_Array/1b.2.png
+
 1b.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1b_Array/1b.3.png
+
 1b.4-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1b_Array/1b.4.png
+
 1b.5-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1b_Array/1b.5.png
 
 #Output for 1c_LinkedList
 
 1c.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1c_LinkedList/1c.1.png
+
 1c.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1c_LinkedList/1c.2.png
+
 1c.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1c_LinkedList/1c.3.png
+
 1c.4-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1c_LinkedList/1c.4.png
+
 1c.5-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/1c_LinkedList/1c.5.png
 
 #Output for 2a_StringOperation
@@ -35,16 +43,23 @@ OUTPUTS FOR JAVA_PROJECT_CODE CLICK BELOW LINKS TO GET THE OUTPUT
 #Outpout for 3b_String
 
 3b.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3b_String/3b1.png
+
 3b.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3b_String/3b2.png
+
 3b.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3b_String/3b3.png
+
 3b.4-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3b_String/3b4.png
 
 #Outpout for 3c_String
 
 3c.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3c_String/3c1.png
+
 3c.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3c_String/3c2.png
+
 3c.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3c_String/3c3.png
+
 3c.4-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3c_String/3c4.png
+
 3c.5-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/3c_String/3c5.png
 
 #Outpout for 4a_Swing
@@ -107,7 +122,9 @@ output for 8b_CoffeeUpdate
 #output for 8c_Employee
 
 8c.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8c_Employee/8c1output.png
+
 8c.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8c_Employee/8c2output.png
+
 8c.3-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/8c_Employee/8c3output.png
 
 #output for 8d_Employee
