@@ -104,8 +104,8 @@ OUTPUTS FOR JAVA_PROJECT_CODE CLICK BELOW LINKS TO GET THE OUTPUT
 
 #output for 7a_JSP
 
-7a-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/7a_JSP/7a.1.jpg
-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/7a_JSP/7a.jpg
+7a.1-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/7a_JSP/7a.1.jpg
+7a.2-https://github.com/4AL22CS045/Java_Project_Codes/blob/main/7a_JSP/7a.jpg
 
 #output for 7b_JSP
 
